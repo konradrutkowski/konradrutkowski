@@ -1,4 +1,5 @@
-### Hi there 👋
+# Welcome to My GitHub Profile!
+
 
 <!--
 **konradrutkowski/konradrutkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+- **Email:** [konrad@krutkowski.com](mailto:konrad@krutkowski.com)
+- **LinkedIn:** [linkedin.com/in/rutkowsky](https://www.linkedin.com/in/rutkowsky/)
+- **Website:** [krutkowski.com](http://krutkowski.com)
+- **GitHub:** [github.com/konradrutkowski](https://github.com/konradrutkowski)
+
+---
